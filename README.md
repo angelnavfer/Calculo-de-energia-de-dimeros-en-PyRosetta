@@ -3,5 +3,5 @@ Estudio y cálculo de energía de los dímeros de las distintas variantes predic
 
 El procedimiento se divide en tres etapas:
 - Predicción de proteínas diméricas y selección de la predicción más fiable según AlphaFold Multimer (carpeta ModelosDiméricos).
-- Renumeración de las cadenas.
+- Renumeración de las cadenas (Cadenas Renumeradas).
 - Cáculo de energía empleando PyRosetta.
